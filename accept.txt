@@ -1,0 +1,29 @@
+Hi, {name}
+
+(中文在下面)
+
+Congratulations, on the acceptance of your proposed talk, {talk_name} on {track_name}.
+
+Please confirm the following information and reply:
+
+    The whole track of the {track_name} will be on {track_date},{track_time}.
+    Your talk {talk_name} will be on {talk_date},{talk_time}.
+
+Please confirm if this schedule ok for you.
+
+Please reply befero 6/10, or we might find someone alternate.
+
+May the open source be with you.
+
+Hi, {name}
+
+你好，我是 COSCUP 2019 議程的機器人，很高興通知你入選了這次 {track_name} 講者，以下幾點事項想請各位確認及回覆。
+
+我們的議程軌為 {track_date} {track_time}
+您的議程 {talk_name} 預計會安排在 {talk_date} {talk_time}
+想確認您這個時段是否可以出席？如果您這個時段不方便的話，請回覆您可以的時段我們協助您協調。
+
+懇請您在 6月10日 之前回覆給副本收件人（議程軌負責人），逾期我們將尋找人選遞補。
+期待在 COSCUP 聽到您精彩的分享。
+
+願開源原力與您同在
