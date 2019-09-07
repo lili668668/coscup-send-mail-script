@@ -28,6 +28,8 @@ $ pip3 install -r requirements.txt
 
 6. Spreadsheet 的 key 是指這個：
 
+![](https://i.imgur.com/9sjKor5.png)
+
 7. Run
 
 ```sh
